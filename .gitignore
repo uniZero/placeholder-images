@@ -1,0 +1,16 @@
+# OS generated files #
+######################
+._*
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.svn/
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# This Project #
+################
+
+.crdownload
